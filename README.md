@@ -1,7 +1,7 @@
 # PABT-Brain-Tumor-Clasification
 
 
-![Brain Tumor Statistics](./04a47458-6356-4538-9d16-513d78df6edd.png)
+
 
 ## Overview
 
